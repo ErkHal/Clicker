@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="button_Text">Click Me !</string>
+    <string name="clicks">Total clicks: </string>
+    <string name="restartButton">Restart ?</string>
+</resources>
